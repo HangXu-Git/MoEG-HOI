@@ -2,10 +2,7 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-Arxiv%20Link-blue)](#)
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](#)
-[![Video](https://img.shields.io/badge/Video-YouTube-red)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38102)](#)
 
 **[AAAI 2026]** Official PyTorch implementation of MoEG-HOI.
 
@@ -29,10 +26,3 @@ Given textual descriptions and object trajectories, MoEG-HOI synthesizes physica
 - **[2026/xx]** Code and pre-trained weights will be released soon.
 
 ---
-
-## 🛠️ Installation
-
-**1. Clone the repository:**
-```bash
-git clone [https://github.com/YourUsername/MoEG-HOI.git](https://github.com/YourUsername/MoEG-HOI.git)
-cd MoEG-HOI

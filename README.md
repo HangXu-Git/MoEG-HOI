@@ -1,12 +1,13 @@
-# MoEG-HOI: Mixture of Expert Groups for One-Stage Hand-Object Interaction Motion Generation with Hand-Finger-Joint Semantic Guidance
-
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-AAAI_2026-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/38102)
+# MoEG-HOI: Mixture of Expert Groups for One-Stage Hand-Object Interaction Motion Generation with Hand-Finger-Joint Semantic Guidance
 
-**[AAAI 2026]** Official PyTorch implementation of MoEG-HOI.
+**Hang Xu**<sup>1</sup>, **Yang Xiao**<sup>1*</sup>, **Changlong Jiang**<sup>1</sup>
 
-</div>
+<sup>1</sup>Your Institution Name &nbsp;&nbsp;&nbsp;&nbsp; <sup>2</sup>Collaborator Institution Name <br>
+<sup>*</sup>Equal Contribution
+
+<br>
 
 ## 📖 Abstract
 This repository contains the official code and pre-trained models for **MoEG-HOI**, a novel one-stage framework that introduces the Mixture of Experts (MoE) architecture to the 3D Hand-Object Interaction (HOI) motion generation task for the first time. 

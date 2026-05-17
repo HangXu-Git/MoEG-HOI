@@ -4,7 +4,7 @@
 
 **Hang Xu**<sup>1</sup>, **Yang Xiao**<sup>1*</sup>, **Changlong Jiang**<sup>1</sup>, **Haohong Kuang**<sup>1</sup>, **Kaidi Zhang**<sup>1</sup>, **Min Du**<sup>2</sup>, **Ran Wang**<sup>1</sup>
 
-<sup>1</sup>Huazhong University of Science and Technology &nbsp;&nbsp;&nbsp;&nbsp; <sup>2</sup>2ByteDance Inc. <br>
+<sup>1</sup>Huazhong University of Science and Technology &nbsp;&nbsp;&nbsp;&nbsp; <sup>2</sup>ByteDance Inc. <br>
 
 <br>
 

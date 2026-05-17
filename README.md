@@ -11,7 +11,7 @@
 ## 📖 Abstract
 This repository contains the official code and pre-trained models for **MoEG-HOI**, a novel one-stage framework that introduces the Mixture of Experts (MoE) architecture to the 3D Hand-Object Interaction (HOI) motion generation task for the first time. 
 
-## 🌟 Key FeaturesR
+## 🌟 Key Features
 - **One-stage MoE-based diffusion framework:** Replaces coarse-to-fine multi-stage pipelines with end-to-end trainable HOI motion generation.
 - **Hierarchical Semantics-guided Expert Groups (Hand–Finger–Joint):** Explicitly model the articulated structure of hands with specialized experts under global-to-local semantic guidance
 - **Action & Noise-Aware Routing:** A dynamic routing mechanism conditioned jointly on the semantic action label and the current noise timestep of the diffusion model.

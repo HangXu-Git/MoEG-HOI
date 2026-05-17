@@ -9,6 +9,12 @@
 
 <br>
 
+[![Paper](https://img.shields.io/badge/Paper-AAAI_2026-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/38102)
+
+**[AAAI 2026]** Official PyTorch implementation of MoEG-HOI.
+
+</div>
+
 ## 📖 Abstract
 This repository contains the official code and pre-trained models for **MoEG-HOI**, a novel one-stage framework that introduces the Mixture of Experts (MoE) architecture to the 3D Hand-Object Interaction (HOI) motion generation task for the first time. 
 

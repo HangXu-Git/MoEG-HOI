@@ -1,0 +1,47 @@
+# env
+pysocks
+cython
+pip-tools>=7.0.0
+# basic
+numpy<2
+scipy
+zarr
+pillow
+matplotlib
+opencv-contrib-python
+open3d==0.16.0
+trimesh[easy]
+imageio
+scikit-image
+termcolor
+tqdm
+easydict
+# pysdf
+pysdf
+# pyrender
+pyopengl>=3.1.6
+pyopengl-accelerate>=3.1.6
+-e thirdparty/pyrender
+# torch
+--extra-index-url https://download.pytorch.org/whl/cu113
+typing_extensions>= 4.8.0
+torch==1.12.0
+torchvision==0.13.0
+timm
+webdataset
+tensorboard
+# layer
+-e thirdparty/chumpy
+-e thirdparty/manotorch
+-f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py310_cu113_pyt1120/download.html
+pytorch3d==0.7.2
+-f https://nvidia-kaolin.s3.us-east-2.amazonaws.com/torch-1.12.0_cu113.html
+kaolin==0.14.0
+-e thirdparty/chamfer_distance
+# language
+-e thirdparty/CLIP
+# personal repo
+-e thirdparty/config_reg
+-e thirdparty/OakInk2
+# package
+-e .

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/CLIP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/LongCLIP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/OakInk2_v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/OakInk2_v1/thirdparty/chamfer_distance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/OakInk2_v1/thirdparty/chumpy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/OakInk2_v1/thirdparty/config_reg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/OakInk2_v1/thirdparty/manotorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/OakInk2_v1/thirdparty/pyrender" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/chamfer_distance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/chumpy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/config_reg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/manotorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/pyrender" vcs="Git" />
+  </component>
+</project>

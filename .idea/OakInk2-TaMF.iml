@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/thirdparty/CLIP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/thirdparty/OakInk2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/thirdparty/chamfer_distance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/thirdparty/chumpy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/thirdparty/config_reg/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/thirdparty/manotorch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/thirdparty/pyrender" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="oakink2-tamf" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

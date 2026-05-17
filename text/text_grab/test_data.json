@@ -1,0 +1,1245 @@
+{
+    "grab_0": {
+        "text": "Fly the airplane.",
+        "rh_obj_list": [
+            "airplane"
+        ],
+        "rh_primitive": "fly"
+    },
+    "grab_1": {
+        "text": "Lift the airplane.",
+        "lh_obj_list": [
+            "airplane"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "airplane"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_2": {
+        "text": "Pass the airplane.",
+        "rh_obj_list": [
+            "airplane"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_3": {
+        "text": "Lift the alarm clock.",
+        "lh_obj_list": [
+            "alarmclock"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "alarmclock"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_4": {
+        "text": "Pass the alarm clock.",
+        "rh_obj_list": [
+            "alarmclock"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_5": {
+        "text": "See the alarm clock.",
+        "rh_obj_list": [
+            "alarmclock"
+        ],
+        "rh_primitive": "see"
+    },
+    "grab_6": {
+        "text": "Eat the apple.",
+        "rh_obj_list": [
+            "apple"
+        ],
+        "rh_primitive": "eat"
+    },
+    "grab_7": {
+        "text": "Pass the apple.",
+        "rh_obj_list": [
+            "apple"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_8": {
+        "text": "Eat the banana.",
+        "lh_obj_list": [
+            "banana"
+        ],
+        "lh_primitive": "eat",
+        "rh_obj_list": [
+            "banana"
+        ],
+        "rh_primitive": "eat"
+    },
+    "grab_9": {
+        "text": "Lift the banana.",
+        "lh_obj_list": [
+            "banana"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "banana"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_10": {
+        "text": "Pass the banana.",
+        "rh_obj_list": [
+            "banana"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_11": {
+        "text": "Peel the banana.",
+        "lh_obj_list": [
+            "banana"
+        ],
+        "lh_primitive": "peel",
+        "rh_obj_list": [
+            "banana"
+        ],
+        "rh_primitive": "peel"
+    },
+    "grab_12": {
+        "text": "Peel the banana.",
+        "lh_obj_list": [
+            "banana"
+        ],
+        "lh_primitive": "peel",
+        "rh_obj_list": [
+            "banana"
+        ],
+        "rh_primitive": "peel"
+    },
+    "grab_13": {
+        "text": "Lift the binoculars.",
+        "lh_obj_list": [
+            "binoculars"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "binoculars"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_14": {
+        "text": "Pass the binoculars.",
+        "rh_obj_list": [
+            "binoculars"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_15": {
+        "text": "See the binoculars.",
+        "lh_obj_list": [
+            "binoculars"
+        ],
+        "lh_primitive": "see",
+        "rh_obj_list": [
+            "binoculars"
+        ],
+        "rh_primitive": "see"
+    },
+    "grab_16": {
+        "text": "Drink the bowl.",
+        "lh_obj_list": [
+            "bowl"
+        ],
+        "lh_primitive": "drink",
+        "rh_obj_list": [
+            "bowl"
+        ],
+        "rh_primitive": "drink"
+    },
+    "grab_17": {
+        "text": "Drink the bowl.",
+        "lh_obj_list": [
+            "bowl"
+        ],
+        "lh_primitive": "drink",
+        "rh_obj_list": [
+            "bowl"
+        ],
+        "rh_primitive": "drink"
+    },
+    "grab_18": {
+        "text": "Lift the bowl.",
+        "lh_obj_list": [
+            "bowl"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "bowl"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_19": {
+        "text": "Pass the bowl.",
+        "lh_obj_list": [
+            "bowl"
+        ],
+        "lh_primitive": "pass"
+    },
+    "grab_20": {
+        "text": "Browse the camera.",
+        "lh_obj_list": [
+            "camera"
+        ],
+        "lh_primitive": "browse",
+        "rh_obj_list": [
+            "camera"
+        ],
+        "rh_primitive": "browse"
+    },
+    "grab_21": {
+        "text": "Pass the camera.",
+        "lh_obj_list": [
+            "camera"
+        ],
+        "lh_primitive": "pass",
+        "rh_obj_list": [
+            "camera"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_22": {
+        "text": "Take picture the camera.",
+        "lh_obj_list": [
+            "camera"
+        ],
+        "lh_primitive": "take picture",
+        "rh_obj_list": [
+            "camera"
+        ],
+        "rh_primitive": "take picture"
+    },
+    "grab_23": {
+        "text": "Take picture the camera.",
+        "lh_obj_list": [
+            "camera"
+        ],
+        "lh_primitive": "take picture",
+        "rh_obj_list": [
+            "camera"
+        ],
+        "rh_primitive": "take picture"
+    },
+    "grab_24": {
+        "text": "Take picture the camera.",
+        "lh_obj_list": [
+            "camera"
+        ],
+        "lh_primitive": "take picture",
+        "rh_obj_list": [
+            "camera"
+        ],
+        "rh_primitive": "take picture"
+    },
+    "grab_25": {
+        "text": "Inspect the cube.",
+        "lh_obj_list": [
+            "cubelarge"
+        ],
+        "lh_primitive": "inspect",
+        "rh_obj_list": [
+            "cubelarge"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_26": {
+        "text": "Lift the cube.",
+        "lh_obj_list": [
+            "cubelarge"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "cubelarge"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_27": {
+        "text": "Pass the cube.",
+        "rh_obj_list": [
+            "cubelarge"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_28": {
+        "text": "Inspect the cube.",
+        "rh_obj_list": [
+            "cubemedium"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_29": {
+        "text": "Lift the cube.",
+        "lh_obj_list": [
+            "cubemedium"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "cubemedium"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_30": {
+        "text": "Pass the cube.",
+        "rh_obj_list": [
+            "cubemedium"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_31": {
+        "text": "Inspect the cube.",
+        "rh_obj_list": [
+            "cubesmall"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_32": {
+        "text": "Lift the cube.",
+        "lh_obj_list": [
+            "cubesmall"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "cubesmall"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_33": {
+        "text": "Pass the cube.",
+        "rh_obj_list": [
+            "cubesmall"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_34": {
+        "text": "Drink the cup.",
+        "rh_obj_list": [
+            "cup"
+        ],
+        "rh_primitive": "drink"
+    },
+    "grab_35": {
+        "text": "Drink the cup.",
+        "lh_obj_list": [
+            "cup"
+        ],
+        "lh_primitive": "drink",
+        "rh_obj_list": [
+            "cup"
+        ],
+        "rh_primitive": "drink"
+    },
+    "grab_36": {
+        "text": "Lift the cup.",
+        "lh_obj_list": [
+            "cup"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "cup"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_37": {
+        "text": "Pass the cup.",
+        "rh_obj_list": [
+            "cup"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_38": {
+        "text": "Pour the cup.",
+        "rh_obj_list": [
+            "cup"
+        ],
+        "rh_primitive": "pour"
+    },
+    "grab_39": {
+        "text": "Inspect the cylinder.",
+        "lh_obj_list": [
+            "cylinderlarge"
+        ],
+        "lh_primitive": "inspect",
+        "rh_obj_list": [
+            "cylinderlarge"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_40": {
+        "text": "Lift the cylinder.",
+        "lh_obj_list": [
+            "cylinderlarge"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "cylinderlarge"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_41": {
+        "text": "Pass the cylinder.",
+        "lh_obj_list": [
+            "cylinderlarge"
+        ],
+        "lh_primitive": "pass"
+    },
+    "grab_42": {
+        "text": "Inspect the cylinder.",
+        "rh_obj_list": [
+            "cylindermedium"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_43": {
+        "text": "Pass the cylinder.",
+        "rh_obj_list": [
+            "cylindermedium"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_44": {
+        "text": "Inspect the cylinder.",
+        "rh_obj_list": [
+            "cylindersmall"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_45": {
+        "text": "Pass the cylinder.",
+        "rh_obj_list": [
+            "cylindersmall"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_46": {
+        "text": "Lift the doorknob.",
+        "rh_obj_list": [
+            "doorknob"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_47": {
+        "text": "Use the doorknob.",
+        "rh_obj_list": [
+            "doorknob"
+        ],
+        "rh_primitive": "use"
+    },
+    "grab_48": {
+        "text": "Use the doorknob.",
+        "rh_obj_list": [
+            "doorknob"
+        ],
+        "rh_primitive": "use"
+    },
+    "grab_49": {
+        "text": "Pass the duck.",
+        "rh_obj_list": [
+            "duck"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_50": {
+        "text": "Inspect the elephant.",
+        "rh_obj_list": [
+            "elephant"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_51": {
+        "text": "Pass the elephant.",
+        "lh_obj_list": [
+            "elephant"
+        ],
+        "lh_primitive": "pass"
+    },
+    "grab_52": {
+        "text": "Wear the eyeglasses.",
+        "lh_obj_list": [
+            "eyeglasses"
+        ],
+        "lh_primitive": "wear",
+        "rh_obj_list": [
+            "eyeglasses"
+        ],
+        "rh_primitive": "wear"
+    },
+    "grab_53": {
+        "text": "Switch on the flashlight.",
+        "rh_obj_list": [
+            "flashlight"
+        ],
+        "rh_primitive": "switch on"
+    },
+    "grab_54": {
+        "text": "Switch on the flashlight.",
+        "rh_obj_list": [
+            "flashlight"
+        ],
+        "rh_primitive": "switch on"
+    },
+    "grab_55": {
+        "text": "Pass the flute.",
+        "rh_obj_list": [
+            "flute"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_56": {
+        "text": "Play the flute.",
+        "lh_obj_list": [
+            "flute"
+        ],
+        "lh_primitive": "play",
+        "rh_obj_list": [
+            "flute"
+        ],
+        "rh_primitive": "play"
+    },
+    "grab_57": {
+        "text": "Cook the frying pan.",
+        "lh_obj_list": [
+            "fryingpan"
+        ],
+        "lh_primitive": "cook"
+    },
+    "grab_58": {
+        "text": "Cook the frying pan.",
+        "rh_obj_list": [
+            "fryingpan"
+        ],
+        "rh_primitive": "cook"
+    },
+    "grab_59": {
+        "text": "Lift the game controller.",
+        "lh_obj_list": [
+            "gamecontroller"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "gamecontroller"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_60": {
+        "text": "Pass the game controller.",
+        "rh_obj_list": [
+            "gamecontroller"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_61": {
+        "text": "Play the game controller.",
+        "lh_obj_list": [
+            "gamecontroller"
+        ],
+        "lh_primitive": "play",
+        "rh_obj_list": [
+            "gamecontroller"
+        ],
+        "rh_primitive": "play"
+    },
+    "grab_62": {
+        "text": "Lift the hammer.",
+        "lh_obj_list": [
+            "hammer"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "hammer"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_63": {
+        "text": "Pass the hammer.",
+        "lh_obj_list": [
+            "hammer"
+        ],
+        "lh_primitive": "pass"
+    },
+    "grab_64": {
+        "text": "Use the hammer.",
+        "rh_obj_list": [
+            "hammer"
+        ],
+        "rh_primitive": "use"
+    },
+    "grab_65": {
+        "text": "Use the hammer.",
+        "rh_obj_list": [
+            "hammer"
+        ],
+        "rh_primitive": "use"
+    },
+    "grab_66": {
+        "text": "Use the hammer.",
+        "lh_obj_list": [
+            "hammer"
+        ],
+        "lh_primitive": "use",
+        "rh_obj_list": [
+            "hammer"
+        ],
+        "rh_primitive": "use"
+    },
+    "grab_67": {
+        "text": "Inspect the hand.",
+        "rh_obj_list": [
+            "hand"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_68": {
+        "text": "Lift the hand.",
+        "lh_obj_list": [
+            "hand"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "hand"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_69": {
+        "text": "Pass the hand.",
+        "rh_obj_list": [
+            "hand"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_70": {
+        "text": "Shake the hand.",
+        "lh_obj_list": [
+            "hand"
+        ],
+        "lh_primitive": "shake",
+        "rh_obj_list": [
+            "hand"
+        ],
+        "rh_primitive": "shake"
+    },
+    "grab_71": {
+        "text": "Lift the headphones.",
+        "lh_obj_list": [
+            "headphones"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "headphones"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_72": {
+        "text": "Pass the headphones.",
+        "rh_obj_list": [
+            "headphones"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_73": {
+        "text": "Use the headphones.",
+        "lh_obj_list": [
+            "headphones"
+        ],
+        "lh_primitive": "use",
+        "rh_obj_list": [
+            "headphones"
+        ],
+        "rh_primitive": "use"
+    },
+    "grab_74": {
+        "text": "Chop the knife.",
+        "rh_obj_list": [
+            "knife"
+        ],
+        "rh_primitive": "chop"
+    },
+    "grab_75": {
+        "text": "Pass the knife.",
+        "lh_obj_list": [
+            "knife"
+        ],
+        "lh_primitive": "pass"
+    },
+    "grab_76": {
+        "text": "Peel the knife.",
+        "rh_obj_list": [
+            "knife"
+        ],
+        "rh_primitive": "peel"
+    },
+    "grab_77": {
+        "text": "Pass the light bulb.",
+        "rh_obj_list": [
+            "lightbulb"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_78": {
+        "text": "Screw the light bulb.",
+        "rh_obj_list": [
+            "lightbulb"
+        ],
+        "rh_primitive": "screw"
+    },
+    "grab_79": {
+        "text": "Lift the mouse.",
+        "lh_obj_list": [
+            "mouse"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "mouse"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_80": {
+        "text": "Pass the mouse.",
+        "lh_obj_list": [
+            "mouse"
+        ],
+        "lh_primitive": "pass"
+    },
+    "grab_81": {
+        "text": "Use the mouse.",
+        "rh_obj_list": [
+            "mouse"
+        ],
+        "rh_primitive": "use"
+    },
+    "grab_82": {
+        "text": "Drink the mug.",
+        "rh_obj_list": [
+            "mug"
+        ],
+        "rh_primitive": "drink"
+    },
+    "grab_83": {
+        "text": "Drink the mug.",
+        "rh_obj_list": [
+            "mug"
+        ],
+        "rh_primitive": "drink"
+    },
+    "grab_84": {
+        "text": "Lift the mug.",
+        "lh_obj_list": [
+            "mug"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "mug"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_85": {
+        "text": "Pass the mug.",
+        "rh_obj_list": [
+            "mug"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_86": {
+        "text": "Toast the mug.",
+        "rh_obj_list": [
+            "mug"
+        ],
+        "rh_primitive": "toast"
+    },
+    "grab_87": {
+        "text": "Call the phone.",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "call"
+    },
+    "grab_88": {
+        "text": "Lift the phone.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_89": {
+        "text": "Pass the phone.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "pass"
+    },
+    "grab_90": {
+        "text": "Pass the piggy bank.",
+        "lh_obj_list": [
+            "piggybank"
+        ],
+        "lh_primitive": "pass",
+        "rh_obj_list": [
+            "piggybank"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_91": {
+        "text": "Use the piggy bank.",
+        "lh_obj_list": [
+            "piggybank"
+        ],
+        "lh_primitive": "use",
+        "rh_obj_list": [
+            "piggybank"
+        ],
+        "rh_primitive": "use"
+    },
+    "grab_92": {
+        "text": "Pass the pyramid.",
+        "lh_obj_list": [
+            "pyramidlarge"
+        ],
+        "lh_primitive": "pass",
+        "rh_obj_list": [
+            "pyramidlarge"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_93": {
+        "text": "Inspect the pyramid.",
+        "lh_obj_list": [
+            "pyramidmedium"
+        ],
+        "lh_primitive": "inspect",
+        "rh_obj_list": [
+            "pyramidmedium"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_94": {
+        "text": "Lift the pyramid.",
+        "lh_obj_list": [
+            "pyramidmedium"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "pyramidmedium"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_95": {
+        "text": "Pass the pyramid.",
+        "rh_obj_list": [
+            "pyramidmedium"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_96": {
+        "text": "Inspect the pyramid.",
+        "rh_obj_list": [
+            "pyramidsmall"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_97": {
+        "text": "Pass the scissors.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_98": {
+        "text": "Use the scissors.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "use"
+    },
+    "grab_99": {
+        "text": "Inspect the sphere.",
+        "rh_obj_list": [
+            "spherelarge"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_100": {
+        "text": "Lift the sphere.",
+        "lh_obj_list": [
+            "spherelarge"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "spherelarge"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_101": {
+        "text": "Pass the sphere.",
+        "lh_obj_list": [
+            "spherelarge"
+        ],
+        "lh_primitive": "pass"
+    },
+    "grab_102": {
+        "text": "Inspect the sphere.",
+        "rh_obj_list": [
+            "spheremedium"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_103": {
+        "text": "Lift the sphere.",
+        "lh_obj_list": [
+            "spheremedium"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "spheremedium"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_104": {
+        "text": "Pass the sphere.",
+        "rh_obj_list": [
+            "spheremedium"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_105": {
+        "text": "Inspect the sphere.",
+        "rh_obj_list": [
+            "spheresmall"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_106": {
+        "text": "Pass the sphere.",
+        "rh_obj_list": [
+            "spheresmall"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_107": {
+        "text": "Lift the stamp.",
+        "lh_obj_list": [
+            "stamp"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "stamp"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_108": {
+        "text": "Pass the stamp.",
+        "rh_obj_list": [
+            "stamp"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_109": {
+        "text": "Stamp the stamp.",
+        "rh_obj_list": [
+            "stamp"
+        ],
+        "rh_primitive": "stamp"
+    },
+    "grab_110": {
+        "text": "Inspect the stanford bunny.",
+        "rh_obj_list": [
+            "stanfordbunny"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_111": {
+        "text": "Lift the stanford bunny.",
+        "lh_obj_list": [
+            "stanfordbunny"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "stanfordbunny"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_112": {
+        "text": "Pass the stanford bunny.",
+        "rh_obj_list": [
+            "stanfordbunny"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_113": {
+        "text": "Lift the stapler.",
+        "lh_obj_list": [
+            "stapler"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "stapler"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_114": {
+        "text": "Pass the stapler.",
+        "rh_obj_list": [
+            "stapler"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_115": {
+        "text": "Staple the stapler.",
+        "rh_obj_list": [
+            "stapler"
+        ],
+        "rh_primitive": "staple"
+    },
+    "grab_116": {
+        "text": "Staple the stapler.",
+        "rh_obj_list": [
+            "stapler"
+        ],
+        "rh_primitive": "staple"
+    },
+    "grab_117": {
+        "text": "Pass the teapot.",
+        "rh_obj_list": [
+            "teapot"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_118": {
+        "text": "Pour the teapot.",
+        "rh_obj_list": [
+            "teapot"
+        ],
+        "rh_primitive": "pour"
+    },
+    "grab_119": {
+        "text": "Pour the teapot.",
+        "rh_obj_list": [
+            "teapot"
+        ],
+        "rh_primitive": "pour"
+    },
+    "grab_120": {
+        "text": "Lift the toothpaste.",
+        "lh_obj_list": [
+            "toothpaste"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "toothpaste"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_121": {
+        "text": "Pass the toothpaste.",
+        "lh_obj_list": [
+            "toothpaste"
+        ],
+        "lh_primitive": "pass"
+    },
+    "grab_122": {
+        "text": "Squeeze the toothpaste.",
+        "lh_obj_list": [
+            "toothpaste"
+        ],
+        "lh_primitive": "squeeze",
+        "rh_obj_list": [
+            "toothpaste"
+        ],
+        "rh_primitive": "squeeze"
+    },
+    "grab_123": {
+        "text": "Squeeze the toothpaste.",
+        "lh_obj_list": [
+            "toothpaste"
+        ],
+        "lh_primitive": "squeeze",
+        "rh_obj_list": [
+            "toothpaste"
+        ],
+        "rh_primitive": "squeeze"
+    },
+    "grab_124": {
+        "text": "Inspect the torus.",
+        "rh_obj_list": [
+            "toruslarge"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_125": {
+        "text": "Lift the torus.",
+        "lh_obj_list": [
+            "toruslarge"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "toruslarge"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_126": {
+        "text": "Pass the torus.",
+        "rh_obj_list": [
+            "toruslarge"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_127": {
+        "text": "Inspect the torus.",
+        "rh_obj_list": [
+            "torusmedium"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_128": {
+        "text": "Lift the torus.",
+        "lh_obj_list": [
+            "torusmedium"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "torusmedium"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_129": {
+        "text": "Pass the torus.",
+        "lh_obj_list": [
+            "torusmedium"
+        ],
+        "lh_primitive": "pass"
+    },
+    "grab_130": {
+        "text": "Inspect the torus.",
+        "rh_obj_list": [
+            "torussmall"
+        ],
+        "rh_primitive": "inspect"
+    },
+    "grab_131": {
+        "text": "Lift the torus.",
+        "lh_obj_list": [
+            "torussmall"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "torussmall"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_132": {
+        "text": "Pass the torus.",
+        "rh_obj_list": [
+            "torussmall"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_133": {
+        "text": "Lift the train.",
+        "lh_obj_list": [
+            "train"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "train"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_134": {
+        "text": "Pass the train.",
+        "rh_obj_list": [
+            "train"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_135": {
+        "text": "Play the train.",
+        "rh_obj_list": [
+            "train"
+        ],
+        "rh_primitive": "play"
+    },
+    "grab_136": {
+        "text": "Pass the watch.",
+        "rh_obj_list": [
+            "watch"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_137": {
+        "text": "Drink the water bottle.",
+        "lh_obj_list": [
+            "waterbottle"
+        ],
+        "lh_primitive": "drink",
+        "rh_obj_list": [
+            "waterbottle"
+        ],
+        "rh_primitive": "drink"
+    },
+    "grab_138": {
+        "text": "Pass the water bottle.",
+        "rh_obj_list": [
+            "waterbottle"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_139": {
+        "text": "Pour the water bottle.",
+        "lh_obj_list": [
+            "waterbottle"
+        ],
+        "lh_primitive": "pour",
+        "rh_obj_list": [
+            "waterbottle"
+        ],
+        "rh_primitive": "pour"
+    },
+    "grab_140": {
+        "text": "Drink the wineglass.",
+        "rh_obj_list": [
+            "wineglass"
+        ],
+        "rh_primitive": "drink"
+    },
+    "grab_141": {
+        "text": "Drink the wineglass.",
+        "rh_obj_list": [
+            "wineglass"
+        ],
+        "rh_primitive": "drink"
+    },
+    "grab_142": {
+        "text": "Lift the wineglass.",
+        "lh_obj_list": [
+            "wineglass"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "wineglass"
+        ],
+        "rh_primitive": "lift"
+    },
+    "grab_143": {
+        "text": "Pass the wineglass.",
+        "rh_obj_list": [
+            "wineglass"
+        ],
+        "rh_primitive": "pass"
+    },
+    "grab_144": {
+        "text": "Toast the wineglass.",
+        "rh_obj_list": [
+            "wineglass"
+        ],
+        "rh_primitive": "toast"
+    }
+}

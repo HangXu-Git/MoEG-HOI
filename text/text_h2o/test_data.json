@@ -1,0 +1,2243 @@
+{
+    "h2o_0": {
+        "text": "Place cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_1": {
+        "text": "Grab cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_2": {
+        "text": "Take out cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_3": {
+        "text": "Put in cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_4": {
+        "text": "Place milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_5": {
+        "text": "Grab milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_6": {
+        "text": "Open milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_7": {
+        "text": "Pour milk.",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "pour"
+    },
+    "h2o_8": {
+        "text": "Close milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_9": {
+        "text": "Place book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_10": {
+        "text": "Grab book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_11": {
+        "text": "Read book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "read",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "read"
+    },
+    "h2o_12": {
+        "text": "Place lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_13": {
+        "text": "Grab lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_14": {
+        "text": "Open lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_15": {
+        "text": "Squeeze lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "squeeze"
+    },
+    "h2o_16": {
+        "text": "Place lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_17": {
+        "text": "Grab lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_18": {
+        "text": "Close lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_19": {
+        "text": "Place chips.",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_20": {
+        "text": "Grab chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_21": {
+        "text": "Open chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_22": {
+        "text": "Take out chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_23": {
+        "text": "Close chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_24": {
+        "text": "Spray spray.",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "spray"
+    },
+    "h2o_25": {
+        "text": "Place spray.",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_26": {
+        "text": "Grab spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_27": {
+        "text": "Place cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_28": {
+        "text": "Grab cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_29": {
+        "text": "Take out cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_30": {
+        "text": "Put in cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_31": {
+        "text": "Place espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_32": {
+        "text": "Grab espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_33": {
+        "text": "Read espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "read",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "read"
+    },
+    "h2o_34": {
+        "text": "Take out espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_35": {
+        "text": "Put in espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_36": {
+        "text": "Place cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_37": {
+        "text": "Grab cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_38": {
+        "text": "Take out cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_39": {
+        "text": "Put in cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_40": {
+        "text": "Place milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_41": {
+        "text": "Grab milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_42": {
+        "text": "Open milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_43": {
+        "text": "Pour milk.",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "pour"
+    },
+    "h2o_44": {
+        "text": "Close milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_45": {
+        "text": "Place book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_46": {
+        "text": "Grab book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_47": {
+        "text": "Read book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "read",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "read"
+    },
+    "h2o_48": {
+        "text": "Place lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_49": {
+        "text": "Grab lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_50": {
+        "text": "Open lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_51": {
+        "text": "Squeeze lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "squeeze"
+    },
+    "h2o_52": {
+        "text": "Place lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_53": {
+        "text": "Grab lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_54": {
+        "text": "Close lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_55": {
+        "text": "Open chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_56": {
+        "text": "Place chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_57": {
+        "text": "Grab chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_58": {
+        "text": "Take out chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_59": {
+        "text": "Close chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_60": {
+        "text": "Place spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_61": {
+        "text": "Grab spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_62": {
+        "text": "Spray spray.",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "spray"
+    },
+    "h2o_63": {
+        "text": "Place spray.",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_64": {
+        "text": "Place cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_65": {
+        "text": "Grab cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_66": {
+        "text": "Take out cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_67": {
+        "text": "Put in cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_68": {
+        "text": "Place espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_69": {
+        "text": "Grab espresso.",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_70": {
+        "text": "Take out espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_71": {
+        "text": "Put in espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_72": {
+        "text": "Read espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "read",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "read"
+    },
+    "h2o_73": {
+        "text": "Place cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_74": {
+        "text": "Grab cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_75": {
+        "text": "Take out cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_76": {
+        "text": "Put in cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_77": {
+        "text": "Place milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_78": {
+        "text": "Grab milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_79": {
+        "text": "Open milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_80": {
+        "text": "Pour milk.",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "pour"
+    },
+    "h2o_81": {
+        "text": "Close milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_82": {
+        "text": "Place book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_83": {
+        "text": "Grab book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_84": {
+        "text": "Read book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "read",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "read"
+    },
+    "h2o_85": {
+        "text": "Place lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_86": {
+        "text": "Grab lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_87": {
+        "text": "Open lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_88": {
+        "text": "Squeeze lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "squeeze"
+    },
+    "h2o_89": {
+        "text": "Place lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_90": {
+        "text": "Grab lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_91": {
+        "text": "Close lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_92": {
+        "text": "Place chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "place"
+    },
+    "h2o_93": {
+        "text": "Grab chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_94": {
+        "text": "Open chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_95": {
+        "text": "Take out chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_96": {
+        "text": "Close chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_97": {
+        "text": "Place spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_98": {
+        "text": "Grab spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_99": {
+        "text": "Spray spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "spray",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "spray"
+    },
+    "h2o_100": {
+        "text": "Place spray.",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_101": {
+        "text": "Grab spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_102": {
+        "text": "Place cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_103": {
+        "text": "Grab cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_104": {
+        "text": "Take out cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_105": {
+        "text": "Put in cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_106": {
+        "text": "Place espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_107": {
+        "text": "Grab espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_108": {
+        "text": "Read espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "read",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "read"
+    },
+    "h2o_109": {
+        "text": "Take out espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_110": {
+        "text": "Put in espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_111": {
+        "text": "Place cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_112": {
+        "text": "Grab cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_113": {
+        "text": "Take out cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_114": {
+        "text": "Put in cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_115": {
+        "text": "Place milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_116": {
+        "text": "Grab milk.",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_117": {
+        "text": "Open milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_118": {
+        "text": "Pour milk.",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "pour"
+    },
+    "h2o_119": {
+        "text": "Close milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_120": {
+        "text": "Place book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_121": {
+        "text": "Grab book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_122": {
+        "text": "Read book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "read",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "read"
+    },
+    "h2o_123": {
+        "text": "Place lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_124": {
+        "text": "Grab lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_125": {
+        "text": "Open lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_126": {
+        "text": "Squeeze lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "squeeze"
+    },
+    "h2o_127": {
+        "text": "Place lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_128": {
+        "text": "Grab lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_129": {
+        "text": "Close lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_130": {
+        "text": "Place chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_131": {
+        "text": "Grab chips.",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_132": {
+        "text": "Open chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_133": {
+        "text": "Take out chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_134": {
+        "text": "Close chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_135": {
+        "text": "Place spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_136": {
+        "text": "Grab spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_137": {
+        "text": "Spray spray.",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "spray"
+    },
+    "h2o_138": {
+        "text": "Place spray.",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_139": {
+        "text": "Grab spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_140": {
+        "text": "Place cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_141": {
+        "text": "Grab cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_142": {
+        "text": "Take out cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_143": {
+        "text": "Put in cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_144": {
+        "text": "Place espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_145": {
+        "text": "Grab espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_146": {
+        "text": "Read espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "read",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "read"
+    },
+    "h2o_147": {
+        "text": "Take out espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_148": {
+        "text": "Put in espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_149": {
+        "text": "Place cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_150": {
+        "text": "Grab cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_151": {
+        "text": "Take out cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_152": {
+        "text": "Put in cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_153": {
+        "text": "Place milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_154": {
+        "text": "Grab milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_155": {
+        "text": "Open milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_156": {
+        "text": "Pour milk.",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "pour"
+    },
+    "h2o_157": {
+        "text": "Close milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_158": {
+        "text": "Place book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_159": {
+        "text": "Grab book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_160": {
+        "text": "Read book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "read",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "read"
+    },
+    "h2o_161": {
+        "text": "Place lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_162": {
+        "text": "Grab lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_163": {
+        "text": "Open lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_164": {
+        "text": "Squeeze lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "squeeze"
+    },
+    "h2o_165": {
+        "text": "Place lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "place"
+    },
+    "h2o_166": {
+        "text": "Grab lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_167": {
+        "text": "Close lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_168": {
+        "text": "Place chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_169": {
+        "text": "Grab chips.",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_170": {
+        "text": "Open chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_171": {
+        "text": "Take out chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_172": {
+        "text": "Close chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_173": {
+        "text": "Place spray.",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_174": {
+        "text": "Grab spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_175": {
+        "text": "Spray spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "spray"
+    },
+    "h2o_176": {
+        "text": "Place spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "place"
+    },
+    "h2o_177": {
+        "text": "Grab spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_178": {
+        "text": "Place cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_179": {
+        "text": "Grab cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_180": {
+        "text": "Take out cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_181": {
+        "text": "Put in cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_182": {
+        "text": "Place espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_183": {
+        "text": "Grab espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_184": {
+        "text": "Read espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "read",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "read"
+    },
+    "h2o_185": {
+        "text": "Take out espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_186": {
+        "text": "Put in espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_187": {
+        "text": "Take out espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_188": {
+        "text": "Put in espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_189": {
+        "text": "Place cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_190": {
+        "text": "Grab cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_191": {
+        "text": "Take out cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_192": {
+        "text": "Put in cappuccino.",
+        "lh_obj_list": [
+            "cappuccino"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "cappuccino"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_193": {
+        "text": "Place milk.",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_194": {
+        "text": "Grab milk.",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_195": {
+        "text": "Open milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_196": {
+        "text": "Pour milk.",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "pour"
+    },
+    "h2o_197": {
+        "text": "Close milk.",
+        "lh_obj_list": [
+            "milk"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "milk"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_198": {
+        "text": "Place book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_199": {
+        "text": "Grab book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_200": {
+        "text": "Read book.",
+        "lh_obj_list": [
+            "book"
+        ],
+        "lh_primitive": "read",
+        "rh_obj_list": [
+            "book"
+        ],
+        "rh_primitive": "read"
+    },
+    "h2o_201": {
+        "text": "Place lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_202": {
+        "text": "Grab lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_203": {
+        "text": "Open lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_204": {
+        "text": "Squeeze lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "squeeze"
+    },
+    "h2o_205": {
+        "text": "Place lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "place"
+    },
+    "h2o_206": {
+        "text": "Grab lotion.",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_207": {
+        "text": "Close lotion.",
+        "lh_obj_list": [
+            "lotion"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "lotion"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_208": {
+        "text": "Place chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_209": {
+        "text": "Grab chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_210": {
+        "text": "Open chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "open"
+    },
+    "h2o_211": {
+        "text": "Take out chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_212": {
+        "text": "Close chips.",
+        "lh_obj_list": [
+            "chips"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "chips"
+        ],
+        "rh_primitive": "close"
+    },
+    "h2o_213": {
+        "text": "Place spray.",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_214": {
+        "text": "Grab spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "grab",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "grab"
+    },
+    "h2o_215": {
+        "text": "Spray spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "spray",
+        "rh_obj_list": [
+            "spray"
+        ],
+        "rh_primitive": "spray"
+    },
+    "h2o_216": {
+        "text": "Place spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "place"
+    },
+    "h2o_217": {
+        "text": "Grab spray.",
+        "lh_obj_list": [
+            "spray"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_218": {
+        "text": "Place cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_219": {
+        "text": "Grab cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_220": {
+        "text": "Take out cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_221": {
+        "text": "Put in cocoa.",
+        "lh_obj_list": [
+            "cocoa"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "cocoa"
+        ],
+        "rh_primitive": "put in"
+    },
+    "h2o_222": {
+        "text": "Place espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "place"
+    },
+    "h2o_223": {
+        "text": "Grab espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "grab"
+    },
+    "h2o_224": {
+        "text": "Read espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "read",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "read"
+    },
+    "h2o_225": {
+        "text": "Take out espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "take out",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "take out"
+    },
+    "h2o_226": {
+        "text": "Put in espresso.",
+        "lh_obj_list": [
+            "espresso"
+        ],
+        "lh_primitive": "put in",
+        "rh_obj_list": [
+            "espresso"
+        ],
+        "rh_primitive": "put in"
+    }
+}

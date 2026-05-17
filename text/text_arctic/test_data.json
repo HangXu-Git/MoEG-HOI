@@ -1,0 +1,3053 @@
+{
+    "arctic_0": {
+        "text": "Open the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_1": {
+        "text": "Open the box with right hand.",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_2": {
+        "text": "Close the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_3": {
+        "text": "Close the box with right hand.",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_4": {
+        "text": "Open the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_5": {
+        "text": "Open the box with left hand.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_6": {
+        "text": "Close the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_7": {
+        "text": "Close the box with left hand.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_8": {
+        "text": "Lift the box with right hand.",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_9": {
+        "text": "Open the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_10": {
+        "text": "Close the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_11": {
+        "text": "Open the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_12": {
+        "text": "Open the box with left hand.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_13": {
+        "text": "Close the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_14": {
+        "text": "Close the box with left hand.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_15": {
+        "text": "Open the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_16": {
+        "text": "Open the box with right hand.",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_17": {
+        "text": "Close the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_18": {
+        "text": "Close the box with right hand.",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_19": {
+        "text": "Open the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_20": {
+        "text": "Open the box with left hand.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_21": {
+        "text": "Close the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_22": {
+        "text": "Close the box with left hand.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_23": {
+        "text": "Lift the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_24": {
+        "text": "Lift the box with left hand.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "lift"
+    },
+    "arctic_25": {
+        "text": "Lift the box with right hand.",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_26": {
+        "text": "Open the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_27": {
+        "text": "Close the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_28": {
+        "text": "Open the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_29": {
+        "text": "Open the box with left hand.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_30": {
+        "text": "Close the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_31": {
+        "text": "Close the box with left hand.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_32": {
+        "text": "Open the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_33": {
+        "text": "Open the box with right hand.",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_34": {
+        "text": "Close the box with both hands.",
+        "lh_obj_list": [
+            "box"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_35": {
+        "text": "Close the box with right hand.",
+        "rh_obj_list": [
+            "box"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_36": {
+        "text": "Close the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_37": {
+        "text": "Close the capsulemachine with left hand.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_38": {
+        "text": "Open the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_39": {
+        "text": "Open the capsulemachine with right hand.",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_40": {
+        "text": "Close the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_41": {
+        "text": "Close the capsulemachine with right hand.",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_42": {
+        "text": "Open the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_43": {
+        "text": "Open the capsulemachine with left hand.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_44": {
+        "text": "Open the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_45": {
+        "text": "Close the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_46": {
+        "text": "Close the capsulemachine with left hand.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_47": {
+        "text": "Open the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_48": {
+        "text": "Open the capsulemachine with left hand.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_49": {
+        "text": "Open the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_50": {
+        "text": "Open the capsulemachine with right hand.",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_51": {
+        "text": "Close the capsulemachine with right hand.",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_52": {
+        "text": "Open the capsulemachine with left hand.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_53": {
+        "text": "Close the capsulemachine with left hand.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_54": {
+        "text": "Close the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_55": {
+        "text": "Close the capsulemachine with right hand.",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_56": {
+        "text": "Open the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_57": {
+        "text": "Open the capsulemachine with left hand.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_58": {
+        "text": "Close the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_59": {
+        "text": "Close the capsulemachine with left hand.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_60": {
+        "text": "Open the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_61": {
+        "text": "Open the capsulemachine with left hand.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_62": {
+        "text": "Close the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_63": {
+        "text": "Close the capsulemachine with left hand.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_64": {
+        "text": "Open the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_65": {
+        "text": "Open the capsulemachine with right hand.",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_66": {
+        "text": "Close the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_67": {
+        "text": "Close the capsulemachine with right hand.",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_68": {
+        "text": "Open the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_69": {
+        "text": "Open the capsulemachine with left hand.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_70": {
+        "text": "Close the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_71": {
+        "text": "Close the capsulemachine with left hand.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_72": {
+        "text": "Open the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_73": {
+        "text": "Open the capsulemachine with right hand.",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_74": {
+        "text": "Close the capsulemachine with both hands.",
+        "lh_obj_list": [
+            "capsulemachine"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_75": {
+        "text": "Close the capsulemachine with right hand.",
+        "rh_obj_list": [
+            "capsulemachine"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_76": {
+        "text": "Grasp the ketchup with right hand.",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "grasp"
+    },
+    "arctic_77": {
+        "text": "Place the ketchup with right hand.",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_78": {
+        "text": "Lift the ketchup with left hand.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "lift"
+    },
+    "arctic_79": {
+        "text": "Place the ketchup with left hand.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_80": {
+        "text": "Place the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_81": {
+        "text": "Place the ketchup with left hand.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_82": {
+        "text": "Place the ketchup with right hand.",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_83": {
+        "text": "Place the ketchup with right hand.",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_84": {
+        "text": "Grasp the ketchup with left hand.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "grasp"
+    },
+    "arctic_85": {
+        "text": "Lift the ketchup with left hand.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "lift"
+    },
+    "arctic_86": {
+        "text": "Place the ketchup with left hand.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_87": {
+        "text": "Place the ketchup with right hand.",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_88": {
+        "text": "Grasp the ketchup with left hand.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "grasp"
+    },
+    "arctic_89": {
+        "text": "Lift the ketchup with left hand.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "lift"
+    },
+    "arctic_90": {
+        "text": "Place the ketchup with left hand.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_91": {
+        "text": "Lift the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_92": {
+        "text": "Place the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_93": {
+        "text": "Lift the ketchup with right hand.",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_94": {
+        "text": "Close the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_95": {
+        "text": "Close the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_96": {
+        "text": "Close the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_97": {
+        "text": "Close the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_98": {
+        "text": "Lift the ketchup with right hand.",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_99": {
+        "text": "Close the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_100": {
+        "text": "Open the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_101": {
+        "text": "Close the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_102": {
+        "text": "Open the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_103": {
+        "text": "Close the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_104": {
+        "text": "Open the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_105": {
+        "text": "Close the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_106": {
+        "text": "Open the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_107": {
+        "text": "Close the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_108": {
+        "text": "Close the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_109": {
+        "text": "Close the ketchup with right hand.",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_110": {
+        "text": "Open the ketchup with both hands.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "ketchup"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_111": {
+        "text": "Open the ketchup with left hand.",
+        "lh_obj_list": [
+            "ketchup"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_112": {
+        "text": "Open the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_113": {
+        "text": "Close the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_114": {
+        "text": "Open the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_115": {
+        "text": "Close the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_116": {
+        "text": "Open the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_117": {
+        "text": "Close the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_118": {
+        "text": "Open the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_119": {
+        "text": "Open the laptop with left hand.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_120": {
+        "text": "Close the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_121": {
+        "text": "Close the laptop with left hand.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_122": {
+        "text": "Open the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_123": {
+        "text": "Open the laptop with right hand.",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_124": {
+        "text": "Close the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_125": {
+        "text": "Close the laptop with right hand.",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_126": {
+        "text": "Open the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_127": {
+        "text": "Open the laptop with left hand.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_128": {
+        "text": "Close the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_129": {
+        "text": "Close the laptop with left hand.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_130": {
+        "text": "Open the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_131": {
+        "text": "Open the laptop with left hand.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_132": {
+        "text": "Close the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_133": {
+        "text": "Close the laptop with left hand.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_134": {
+        "text": "Open the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_135": {
+        "text": "Open the laptop with left hand.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_136": {
+        "text": "Open the laptop with right hand.",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_137": {
+        "text": "Close the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_138": {
+        "text": "Close the laptop with left hand.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_139": {
+        "text": "Close the laptop with right hand.",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_140": {
+        "text": "Open the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_141": {
+        "text": "Close the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_142": {
+        "text": "Open the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_143": {
+        "text": "Close the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_144": {
+        "text": "Open the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_145": {
+        "text": "Close the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_146": {
+        "text": "Open the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_147": {
+        "text": "Close the laptop with both hands.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "laptop"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_148": {
+        "text": "Close the laptop with left hand.",
+        "lh_obj_list": [
+            "laptop"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_149": {
+        "text": "Open the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_150": {
+        "text": "Open the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_151": {
+        "text": "Close the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_152": {
+        "text": "Close the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_153": {
+        "text": "Close the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_154": {
+        "text": "Close the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_155": {
+        "text": "Open the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_156": {
+        "text": "Open the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_157": {
+        "text": "Close the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_158": {
+        "text": "Close the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_159": {
+        "text": "Open the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_160": {
+        "text": "Open the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_161": {
+        "text": "Close the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_162": {
+        "text": "Close the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_163": {
+        "text": "Open the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_164": {
+        "text": "Open the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_165": {
+        "text": "Close the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_166": {
+        "text": "Close the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_167": {
+        "text": "Open the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_168": {
+        "text": "Open the mixer with left hand.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_169": {
+        "text": "Close the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_170": {
+        "text": "Close the mixer with left hand.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_171": {
+        "text": "Open the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_172": {
+        "text": "Open the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_173": {
+        "text": "Close the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_174": {
+        "text": "Close the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_175": {
+        "text": "Open the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_176": {
+        "text": "Open the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_177": {
+        "text": "Close the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_178": {
+        "text": "Close the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_179": {
+        "text": "Open the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_180": {
+        "text": "Open the mixer with left hand.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_181": {
+        "text": "Close the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_182": {
+        "text": "Close the mixer with left hand.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_183": {
+        "text": "Open the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_184": {
+        "text": "Open the mixer with left hand.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_185": {
+        "text": "Close the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_186": {
+        "text": "Close the mixer with left hand.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_187": {
+        "text": "Open the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_188": {
+        "text": "Open the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_189": {
+        "text": "Close the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_190": {
+        "text": "Close the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_191": {
+        "text": "Open the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_192": {
+        "text": "Open the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_193": {
+        "text": "Close the mixer with both hands.",
+        "lh_obj_list": [
+            "mixer"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_194": {
+        "text": "Close the mixer with right hand.",
+        "rh_obj_list": [
+            "mixer"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_195": {
+        "text": "Open the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_196": {
+        "text": "Point the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "point",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "point"
+    },
+    "arctic_197": {
+        "text": "Close the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_198": {
+        "text": "Open the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_199": {
+        "text": "Point the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "point",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "point"
+    },
+    "arctic_200": {
+        "text": "Place the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_201": {
+        "text": "Place the notebook with left hand.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_202": {
+        "text": "Place the notebook with right hand.",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_203": {
+        "text": "Open the notebook with left hand.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_204": {
+        "text": "Point the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "point",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "point"
+    },
+    "arctic_205": {
+        "text": "Close the notebook with left hand.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_206": {
+        "text": "Open the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_207": {
+        "text": "Open the notebook with right hand.",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_208": {
+        "text": "Lift the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_209": {
+        "text": "Lift the notebook with left hand.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "lift"
+    },
+    "arctic_210": {
+        "text": "Lift the notebook with right hand.",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_211": {
+        "text": "Close the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_212": {
+        "text": "Place the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_213": {
+        "text": "Place the notebook with left hand.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_214": {
+        "text": "Place the notebook with right hand.",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_215": {
+        "text": "Grasp the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "grasp",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "grasp"
+    },
+    "arctic_216": {
+        "text": "Grasp the notebook with left hand.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "grasp"
+    },
+    "arctic_217": {
+        "text": "Grasp the notebook with right hand.",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "grasp"
+    },
+    "arctic_218": {
+        "text": "Open the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_219": {
+        "text": "Close the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_220": {
+        "text": "Close the notebook with left hand.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_221": {
+        "text": "Open the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_222": {
+        "text": "Open the notebook with right hand.",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_223": {
+        "text": "Close the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_224": {
+        "text": "Close the notebook with right hand.",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_225": {
+        "text": "Lift the notebook with left hand.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "lift"
+    },
+    "arctic_226": {
+        "text": "Open the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_227": {
+        "text": "Point the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "point",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "point"
+    },
+    "arctic_228": {
+        "text": "Open the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_229": {
+        "text": "Close the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_230": {
+        "text": "Place the notebook with both hands.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_231": {
+        "text": "Place the notebook with left hand.",
+        "lh_obj_list": [
+            "notebook"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_232": {
+        "text": "Place the notebook with right hand.",
+        "rh_obj_list": [
+            "notebook"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_233": {
+        "text": "Grasp the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "grasp",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "grasp"
+    },
+    "arctic_234": {
+        "text": "Grasp the phone with left hand.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "grasp"
+    },
+    "arctic_235": {
+        "text": "Grasp the phone with right hand.",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "grasp"
+    },
+    "arctic_236": {
+        "text": "Place the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_237": {
+        "text": "Place the phone with left hand.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_238": {
+        "text": "Place the phone with right hand.",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_239": {
+        "text": "Lift the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_240": {
+        "text": "Lift the phone with left hand.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "lift"
+    },
+    "arctic_241": {
+        "text": "Lift the phone with right hand.",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_242": {
+        "text": "Place the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_243": {
+        "text": "Place the phone with left hand.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_244": {
+        "text": "Place the phone with right hand.",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_245": {
+        "text": "Lift the phone with right hand.",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_246": {
+        "text": "Place the phone with right hand.",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_247": {
+        "text": "Lift the phone with right hand.",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_248": {
+        "text": "Place the phone with right hand.",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_249": {
+        "text": "Lift the phone with left hand.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "lift"
+    },
+    "arctic_250": {
+        "text": "Place the phone with right hand.",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_251": {
+        "text": "Close the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_252": {
+        "text": "Open the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_253": {
+        "text": "Close the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_254": {
+        "text": "Close the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_255": {
+        "text": "Open the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_256": {
+        "text": "Close the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_257": {
+        "text": "Open the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_258": {
+        "text": "Close the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_259": {
+        "text": "Place the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_260": {
+        "text": "Place the phone with left hand.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_261": {
+        "text": "Place the phone with right hand.",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_262": {
+        "text": "Close the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_263": {
+        "text": "Close the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_264": {
+        "text": "Close the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_265": {
+        "text": "Open the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_266": {
+        "text": "Open the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_267": {
+        "text": "Place the phone with both hands.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_268": {
+        "text": "Place the phone with left hand.",
+        "lh_obj_list": [
+            "phone"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_269": {
+        "text": "Place the phone with right hand.",
+        "rh_obj_list": [
+            "phone"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_270": {
+        "text": "Lift the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_271": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_272": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_273": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_274": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_275": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_276": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_277": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_278": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_279": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_280": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_281": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_282": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_283": {
+        "text": "Cut the scissors with right hand.",
+        "rh_obj_list": [
+            "scissors"
+        ],
+        "rh_primitive": "cut"
+    },
+    "arctic_284": {
+        "text": "Grasp the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "grasp",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "grasp"
+    },
+    "arctic_285": {
+        "text": "Grasp the waffleiron with left hand.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "grasp"
+    },
+    "arctic_286": {
+        "text": "Lift the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_287": {
+        "text": "Lift the waffleiron with left hand.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "lift"
+    },
+    "arctic_288": {
+        "text": "Place the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_289": {
+        "text": "Place the waffleiron with left hand.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_290": {
+        "text": "Place the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_291": {
+        "text": "Place the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_292": {
+        "text": "Lift the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_293": {
+        "text": "Lift the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_294": {
+        "text": "Place the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_295": {
+        "text": "Place the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_296": {
+        "text": "Lift the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_297": {
+        "text": "Place the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_298": {
+        "text": "Lift the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "lift",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_299": {
+        "text": "Lift the waffleiron with left hand.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "lift"
+    },
+    "arctic_300": {
+        "text": "Place the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_301": {
+        "text": "Lift the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_302": {
+        "text": "Place the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_303": {
+        "text": "Lift the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "lift"
+    },
+    "arctic_304": {
+        "text": "Place the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_305": {
+        "text": "Open the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_306": {
+        "text": "Open the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_307": {
+        "text": "Close the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_308": {
+        "text": "Close the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_309": {
+        "text": "Open the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_310": {
+        "text": "Open the waffleiron with left hand.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_311": {
+        "text": "Close the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_312": {
+        "text": "Close the waffleiron with left hand.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_313": {
+        "text": "Open the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_314": {
+        "text": "Close the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_315": {
+        "text": "Open the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_316": {
+        "text": "Close the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_317": {
+        "text": "Open the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_318": {
+        "text": "Close the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_319": {
+        "text": "Close the waffleiron with left hand.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_320": {
+        "text": "Open the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_321": {
+        "text": "Open the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_322": {
+        "text": "Close the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_323": {
+        "text": "Close the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_324": {
+        "text": "Open the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_325": {
+        "text": "Open the waffleiron with left hand.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "open"
+    },
+    "arctic_326": {
+        "text": "Close the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_327": {
+        "text": "Close the waffleiron with left hand.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close"
+    },
+    "arctic_328": {
+        "text": "Open the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_329": {
+        "text": "Close the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_330": {
+        "text": "Open the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_331": {
+        "text": "Close the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_332": {
+        "text": "Open the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "open",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "open"
+    },
+    "arctic_333": {
+        "text": "Close the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "close",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "close"
+    },
+    "arctic_334": {
+        "text": "Place the waffleiron with both hands.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "place",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "place"
+    },
+    "arctic_335": {
+        "text": "Place the waffleiron with left hand.",
+        "lh_obj_list": [
+            "waffleiron"
+        ],
+        "lh_primitive": "place"
+    },
+    "arctic_336": {
+        "text": "Place the waffleiron with right hand.",
+        "rh_obj_list": [
+            "waffleiron"
+        ],
+        "rh_primitive": "place"
+    }
+}

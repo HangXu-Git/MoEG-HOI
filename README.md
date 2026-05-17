@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38102)](#)
+[![Paper](https://img.shields.io/badge/Paper-AAAI_2026-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/38102)
 
 **[AAAI 2026]** Official PyTorch implementation of MoEG-HOI.
 
